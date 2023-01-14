@@ -9,6 +9,8 @@ FrontEnd style from https://www.frontendmentor.io/challenges/ecommerce-product-p
 
 ![e-commerceProfile](https://user-images.githubusercontent.com/103315419/212463604-8163bf58-0e2b-47af-a00a-6d9109b93593.png)
 
+![e-commerce ligthbox](https://user-images.githubusercontent.com/103315419/212464321-f171936a-fa64-4ceb-a916-51ef669a283b.png)
+
 ![e-commerceSignup](https://user-images.githubusercontent.com/103315419/212463685-d03910fa-8c38-4ab8-ad43-5dae9fafeb86.png)
 
 # Mobile 
