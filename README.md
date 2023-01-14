@@ -1,6 +1,9 @@
 # E-commerce page made with React
+
 I also used: TailwindCSS and ReactReduxToolkit for state management 
+
 Mobile responsive
+
 FrontEnd style from https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6
  
 # Desktop version
